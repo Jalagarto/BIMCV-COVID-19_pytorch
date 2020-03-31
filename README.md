@@ -1,7 +1,6 @@
 ### Note that this is not the official version but an implementation based on [the official version: BIMCV-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
-
 ________
-...
+# ...
 ________
 
 <div class="clearfix" style="padding: 0px; padding-left: 100px; display: flex; flex-wrap: nowrap; justify-content: space-evenly; align-items:center">
