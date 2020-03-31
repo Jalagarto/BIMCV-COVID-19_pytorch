@@ -1,4 +1,5 @@
-# Note that this is not the official version but an implementation based on [IMCV-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
+# Note that this is not the official version but an implementation based on [BIMCV-CSUSP /
+BIMCV-COVID-19](https://github.com/BIMCV-CSUSP/BIMCV-COVID-19)
 
 
 
