@@ -12,3 +12,4 @@ Then I will try some pytorch implementations. If it doesn't work I will give it 
 
 I will work 30 minutes or so everyday, although I'll try to work a bit more if I get some free time.
 
+Check related studies in [our wiki](https://github.com/Jalagarto/BIMCV-COVID-19_pytorch/wiki)
